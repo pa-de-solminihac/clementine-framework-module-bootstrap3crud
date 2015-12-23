@@ -1,5 +1,5 @@
 <?php
-$this->getParentBlock($data, $request);
+Clementine::getParentBlock($data, $request);
 ?>
 <script type="text/javascript">
     // si jQuery est chargé
